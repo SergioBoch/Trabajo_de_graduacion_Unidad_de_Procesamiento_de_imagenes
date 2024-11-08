@@ -15,6 +15,17 @@
 </div>
 
 ---
+##  **Descripción**
+Este trabajo de graduación se centra en la optimización de algoritmos para el procesamiento de imágenes y el reconocimiento óptico de caracteres en el sistema **Brainlab de HUMANA**, así como en su integración con un sistema robótico físico. La investigación aborda el desarrollo de un protocolo de comunicación y una **interfaz gráfica de usuario (GUI)** que permite una interacción fluida y eficaz entre el sistema de procesamiento y el robot.
+
+El procesamiento de imágenes es esencial para aplicaciones médicas avanzadas, como las que se utilizan en procedimientos quirúrgicos donde la precisión y la eficiencia son críticas. Este proyecto busca mejorar los procesos manuales actuales con herramientas automatizadas que puedan ser utilizadas en entornos reales.
+
+<div style="text-align: center;">
+    <img src="https://www.brainlab.com/cdn-cgi/image/w=7678,f=jpeg/https://assetmanagement.brainlab.com/Images/Cirq%26Curve%200724_300dpi_03s.jpg" alt="Sistema Brainlab de HUMANA" style="width: 60%; margin-bottom: 10px;"/>
+    <p style="font-size: 14px; color: gray;">Fuente: [Cirq para neurocirugía funcional](https://www.brainlab.com/es/productos-de-cirugia/fsn-hubpage/cirq-fsn/)</p>
+</div>
+
+---
 ### **Objetivos**
 - **Optimización de algoritmos de procesamiento de imágenes.**
 - **Implementación y validación de un protocolo de comunicación UART.**
@@ -67,5 +78,4 @@ Este trabajo marca un avance en la integración de herramientas de procesamiento
 ## Créditos y Agradecimientos
 
 Este proyecto fue realizado con la colaboración del **Centro de Epilepsia y Neurocirugía Funcional HUMANA** y la **Facultad de Ingeniería de la Universidad del Valle de Guatemala**.
-
 
