@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="https://redfia.usac.edu.gt/wp-content/uploads/2019/09/logos-2017-hq-01_1_orig-1024x288.png" alt="Logo UVG" style="width: 45%;"/>
-    <img src="https://res.cloudinary.com/webuvg/image/upload/f_auto,q_auto,w_329,c_scale,fl_lossy,dpr_2.63/v1684945887/WEB/Academico/Facultades/FacultadIngenieria.png" alt="Logo Ingeniería" style="width: 60%;"/>
+    <img src="https://res.cloudinary.com/webuvg/image/upload/f_auto,q_auto,w_329,c_scale,fl_lossy,dpr_2.63/v1684945887/WEB/Academico/Facultades/FacultadIngenieria.png" alt="Logo Ingeniería" style="width: 45%;"/>
 </div>
 
 <div style="text-align: center; padding: 20px; border-radius: 8px;">
