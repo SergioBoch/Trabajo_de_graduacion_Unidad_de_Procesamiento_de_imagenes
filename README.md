@@ -136,6 +136,22 @@ python -m pip show tk ttkthemes pyautogui pillow pyserial opencv-python numpy py
 
 Esto mostrará la versión y detalles de cada paquete.
 
+## Sistema Robótico Utilizado
+Este proyecto utiliza el robot **MyCobot 280 M5**, un brazo robótico compacto y versátil desarrollado por Elephant Robotics. El MyCobot 280 es ideal para aplicaciones de aprendizaje y experimentación en robótica debido a sus características:
+
+- **Estructura Compacta**: Tamaño reducido que permite un fácil manejo y almacenamiento.
+- **Alimentado por M5Stack**: Utiliza un microcontrolador M5Stack para una operación eficiente y personalizable.
+- **6 Grados de Libertad (DOF)**: Proporciona una alta flexibilidad para realizar tareas complejas.
+- **Fácil Integración**: Compatible con diversas bibliotecas como `pymycobot`, facilitando la programación y control desde Python.
+- **Aplicaciones Diversas**: Utilizado en proyectos de automatización, investigación y educación.
+
+Puedes encontrar más detalles y documentación oficial en [Elephant Robotics](https://www.elephantrobotics.com).
+
+<div style="text-align: center;">
+    <img src="https://static.elephantrobotics.com/wp-content/uploads/2022/02/myCobot-%E5%89%8D%E4%BC%B8%E5%A7%BF%E6%80%81-1.jpg" alt="myCobot 280 M5" style="width: 60%; margin-bottom: 10px;"/>
+    <p style="font-size: 14px; color: gray;">Fuente: [myCobot 280 M5](https://www.elephantrobotics.com/en/support-280-m5-en/)</p>
+</div>
+
 ## Solución de Problemas
 Si encuentras problemas durante la instalación o ejecución del proyecto, considera:
 - Verificar si hay errores tipográficos en tu código.
