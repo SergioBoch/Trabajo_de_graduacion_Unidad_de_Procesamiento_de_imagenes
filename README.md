@@ -65,6 +65,85 @@ El protocolo **UART** se implementó para garantizar la comunicación segura y e
 
 ---
 
+## Guía de instalación de librerías
+Este proyecto utiliza varias bibliotecas y herramientas para crear una interfaz gráfica de usuario (GUI) y realizar control robótico, procesamiento de imágenes, comunicación serial y visualización de datos. Las siguientes instrucciones te guiarán en cómo instalar cada biblioteca requerida y configurar tu entorno para ejecutar el proyecto sin problemas.
+
+## Prerrequisitos
+Asegúrate de tener Python 3.x instalado. Puedes descargarlo desde [python.org](https://www.python.org/downloads/).
+
+### Guía de Instalación Paso a Paso
+Abre tu terminal y ejecuta los siguientes comandos para instalar los paquetes necesarios:
+
+```bash
+# Actualizar pip a la última versión
+python -m pip install --upgrade pip
+
+# Instalar tkinter (normalmente incluido con Python, pero se puede instalar si no está presente)
+# Windows:
+python -m pip install tk
+
+# Instalar ttkthemes para widgets temáticos
+python -m pip install ttkthemes
+
+# Instalar pyautogui para automatización de GUI
+python -m pip install pyautogui
+
+# Instalar Pillow para procesamiento de imágenes
+python -m pip install pillow
+
+# Instalar serial para comunicación serial
+python -m pip install pyserial
+
+# Instalar OpenCV para visión por computadora
+python -m pip install opencv-python
+
+# Instalar numpy para operaciones numéricas
+python -m pip install numpy
+
+# Instalar pytesseract para reconocimiento óptico de caracteres (OCR)
+python -m pip install pytesseract
+
+# Instalar pymycobot para control robótico de MyCobot
+python -m pip install pymycobot
+
+# Instalar pandas para manipulación de datos
+python -m pip install pandas
+
+# Instalar matplotlib para graficar y visualizar datos
+python -m pip install matplotlib
+
+# Instalar roboticstoolbox para simulación y cinemática de robots
+python -m pip install roboticstoolbox-python
+
+# Instalar spatialmath para transformaciones 3D y cálculos de poses
+python -m pip install spatialmath-python
+
+# Asegurarse de que MATLAB Engine API para Python esté instalado
+# Nota: MATLAB debe instalarse por separado, y seguir las instrucciones en:
+# https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html
+```
+
+### Configuración Adicional
+- **pytesseract** requiere que Tesseract-OCR esté instalado en tu sistema. Sigue las instrucciones [aqui](https://github.com/tesseract-ocr/tesseract) para instalarlo.
+- Para **MATLAB Engine API**, asegúrate de tener MATLAB instalado y configurado correctamente según la documentación de MathWorks.
+
+### Verificación de Instalaciones
+Puedes verificar que las bibliotecas estén instaladas correctamente ejecutando:
+
+```bash
+python -m pip show tk ttkthemes pyautogui pillow pyserial opencv-python numpy pytesseract pymycobot pandas matplotlib roboticstoolbox-python spatialmath-python
+```
+
+Esto mostrará la versión y detalles de cada paquete.
+
+## Solución de Problemas
+Si encuentras problemas durante la instalación o ejecución del proyecto, considera:
+- Verificar si hay errores tipográficos en tu código.
+- Asegurarte de que tu entorno de Python esté configurado correctamente.
+- Consultar la documentación de cada biblioteca para errores específicos.
+
+---
+
 ## Resultados y Conclusiones
 
 - **Mejoras significativas en la precisión de reconocimiento de caracteres.**
