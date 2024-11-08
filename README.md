@@ -14,16 +14,6 @@
     <h4 style="margin: 5px 0;">Universidad del Valle de Guatemala</h4>
 </div>
 
-##  **Descripción**
-Este trabajo de graduación se centra en la optimización de algoritmos para el procesamiento de imágenes y el reconocimiento óptico de caracteres en el sistema **Brainlab de HUMANA**, así como en su integración con un sistema robótico físico. La investigación aborda el desarrollo de un protocolo de comunicación y una **interfaz gráfica de usuario (GUI)** que permite una interacción fluida y eficaz entre el sistema de procesamiento y el robot.
-
-El procesamiento de imágenes es esencial para aplicaciones médicas avanzadas, como las que se utilizan en procedimientos quirúrgicos donde la precisión y la eficiencia son críticas. Este proyecto busca mejorar los procesos manuales actuales con herramientas automatizadas que puedan ser utilizadas en entornos reales.
-
-<div style="text-align: center;">
-    <img src="https://www.brainlab.com/cdn-cgi/image/w=7678,f=jpeg/https://assetmanagement.brainlab.com/Images/Cirq%26Curve%200724_300dpi_03s.jpg" alt="Sistema Brainlab de HUMANA" style="width: 60%; margin-bottom: 10px;"/>
-    <p style="font-size: 14px; color: gray;">Fuente: [Cirq para neurocirugía funcional](https://www.brainlab.com/es/productos-de-cirugia/fsn-hubpage/cirq-fsn/)</p>
-</div>
-
 ---
 ### **Objetivos**
 - **Optimización de algoritmos de procesamiento de imágenes.**
@@ -43,6 +33,27 @@ El protocolo **UART** se implementó para garantizar la comunicación segura y e
 
 ---
 
+## Características del Proyecto
+
+- **Procesamiento de imágenes con algoritmos optimizados**.
+- **Reconocimiento Óptico de Caracteres (OCR)** utilizando Tesseract y pruebas con otros motores como Asprise OCR.
+- **Integración de un protocolo UART** para la comunicación bidireccional con un sistema robótico.
+- **Desarrollo de una GUI interactiva** que permite capturas de pantalla, procesamiento de imágenes y gestión de datos.
+
+---
+
+## Tecnologías y Librerías Utilizadas
+
+- **Python**: Lenguaje de programación principal para el desarrollo de scripts y la interfaz gráfica.
+- **OpenCV**: Para el procesamiento de imágenes y la manipulación de imágenes en tiempo real.
+- **Tesseract OCR**: Herramienta de código abierto para el reconocimiento de caracteres.
+- **Tkinter**: Utilizado para la creación de la GUI.
+- **Asprise OCR (opcional)**: Motor comercial de reconocimiento de caracteres.
+- **Numpy y Scipy**: Para operaciones matemáticas y de procesamiento numérico.
+- **PySerial**: Para la implementación del protocolo de comunicación UART.
+
+---
+
 ## Resultados y Conclusiones
 
 - **Mejoras significativas en la precisión de reconocimiento de caracteres.**
@@ -56,7 +67,5 @@ Este trabajo marca un avance en la integración de herramientas de procesamiento
 ## Créditos y Agradecimientos
 
 Este proyecto fue realizado con la colaboración del **Centro de Epilepsia y Neurocirugía Funcional HUMANA** y la **Facultad de Ingeniería de la Universidad del Valle de Guatemala**.
-
-
 
 
