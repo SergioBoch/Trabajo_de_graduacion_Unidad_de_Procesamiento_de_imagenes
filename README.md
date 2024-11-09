@@ -173,12 +173,3 @@ Este trabajo marca un avance en la integración de herramientas de procesamiento
 ## Créditos y Agradecimientos
 
 Este proyecto fue realizado con la colaboración del **Centro de Epilepsia y Neurocirugía Funcional HUMANA** y la **Facultad de Ingeniería de la Universidad del Valle de Guatemala**.
-
-<details>
-  <summary>Table of Contents</summary>
-  	- [Features](file:///C:/Users/Sergi/Downloads/Robotics_Toolbox_MATLAB.pdf)
-  	- [Editor.md](https://ieeexplore.ieee.org/document/486658)
-  	- [H1 header](#h1-header)
-  	- [Heading 1 link Heading link](#heading-1-link-heading-link)
- 	 - [H1 Header (Underline)](#h1-header-underline)
-</details>
