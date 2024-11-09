@@ -174,8 +174,3 @@ Este trabajo marca un avance en la integración de herramientas de procesamiento
 
 Este proyecto fue realizado con la colaboración del **Centro de Epilepsia y Neurocirugía Funcional HUMANA** y la **Facultad de Ingeniería de la Universidad del Valle de Guatemala**.
 
-## Table of Contents
-- [Features](https://github.com/SergioBoch/Trabajo_de_graduacion_Unidad_de_Procesamiento_de_imagenes/tree/main/Documentos%20Escritos)
-- [Editor.md](https://github.com/SergioBoch/Trabajo_de_graduacion_Unidad_de_Procesamiento_de_imagenes/tree/main/Imagenes%20para%20pruebas)
-- [H1 header](https://github.com/SergioBoch/Trabajo_de_graduacion_Unidad_de_Procesamiento_de_imagenes/tree/main/Programas%20de%20pruebas)
-
